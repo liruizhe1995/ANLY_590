@@ -5,3 +5,5 @@
 [lab2](https://github.com/liruizhe1995/ANLY_590/blob/master/Lab2_ffnn_part2%20(1).ipynb)
 
 [Assignment 1](https://github.com/liruizhe1995/ANLY_590/blob/master/HW1.ipynb)
+
+[tf and keras](https://github.com/liruizhe1995/ANLY_590/blob/master/tf_and_keras%20(1).ipynb)
