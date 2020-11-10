@@ -9,3 +9,5 @@
 [tf and keras](https://github.com/liruizhe1995/ANLY_590/blob/master/tf_and_keras%20(1).ipynb)
 
 [Assignment 2](https://github.com/liruizhe1995/ANLY_590/blob/master/asssignment2%20(2).ipynb)
+
+[CNN]([Assignment 2](https://github.com/liruizhe1995/ANLY_590/blob/master/asssignment2%20(2).ipynb))
