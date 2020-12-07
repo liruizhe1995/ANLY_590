@@ -13,3 +13,5 @@
 [CNN](https://github.com/liruizhe1995/ANLY_590/blob/master/CNNs_Lab%20(1).ipynb)
 
 [RNN_lab](https://github.com/liruizhe1995/ANLY_590/blob/master/RNN_Lab%20(1).ipynb)
+
+[HW3](https://github.com/liruizhe1995/ANLY_590/blob/master/HW3.ipynb)
